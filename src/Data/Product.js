@@ -74,7 +74,7 @@ Mycobacterium, Tuberculosis, HBV, HIV, HCV, H1N1, H5N1, Rota Virus, MRSA and SAR
       "500ML": 725,
       "5 Liter": 5925,
     },
-    sizes: ["500ML", "5 Liter"],
+    sizes: ["1 Liter", "5 Liter"],
     description: `One Step Medical Grade Disinfectant & Cleaner for Hard Surfaces & Environment
 
     Cleaning & Disinfection in one step
